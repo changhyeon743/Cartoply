@@ -35,3 +35,10 @@ To achieve this, we propose the first version of TTM (Text to Model) as follows.
 이를 위한 TTM(Text to Model)의 첫번째 버전을 아래와 같이 제안합니다.
 
 ![Cartoply 복사본](https://github.com/changhyeon743/Cartoply/assets/25363178/4696b6d8-c593-49db-8cb3-910644ddaf1c)
+
+# Copyright Notice
+
+© 2024 Team 서시데, University of Seoul. All rights reserved.
+
+Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Seosidae Team, University of Seoul with appropriate and specific direction to the original content.
+
