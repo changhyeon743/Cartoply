@@ -40,5 +40,5 @@ To achieve this, we propose the first version of TTM (Text to Model) as follows.
 
 © 2024 Team 서시데, University of Seoul. All rights reserved.
 
-Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Seosidae Team, University of Seoul with appropriate and specific direction to the original content.
+Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Team 서시데, University of Seoul with appropriate and specific direction to the original content.
 
