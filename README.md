@@ -27,12 +27,12 @@ Spatial questions are actually quite common in our daily lives, but getting answ
 
 Our first goal is to make Seoul city's data more accessible and familiar to its citizens.
 
-To achieve this, we propose the first version of TTM (Text to Model) as follows.
+To achieve this, we propose the first version of TTM (Text to Map) as follows.
 
 
 우리의 첫번째 목표는 서울시 데이터를 서울시민에게 더 친근하고 가깝게 제공하는 것입니다.
 
-이를 위한 TTM(Text to Model)의 첫번째 버전을 아래와 같이 제안합니다.
+이를 위한 TTM(Text to Map)의 첫번째 버전을 아래와 같이 제안합니다.
 
 ![Cartoply 복사본](https://github.com/changhyeon743/Cartoply/assets/25363178/4696b6d8-c593-49db-8cb3-910644ddaf1c)
 
